@@ -57,10 +57,10 @@ h2 {
   background-color: ;
 }
 .blue-color {
-  border-left:8px solid blue;
+  border-left: 7px solid blue;
 }
 .unknown-color {
-  border-left:8px solid tomato;
+  border-left: 7px solid tomato;
 }
 .experience-area {
   background-image: url(images/exp-bg.png);
